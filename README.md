@@ -1,4 +1,4 @@
-# Managing growing project
+# Growing a Rust project
 
 Example of how to break apart a rust project to make it more modular and grow it while keeping it manageable. The first commits are in order of growth.
 
